@@ -8,14 +8,6 @@ import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-/**
- * Tip
- * command + shift + enter 자동 완성
- * ex) setName("spring -> setName("spring")
- * <p>
- * command + option + v  자동 완성
- * ex) repository.findById(member.getId()) -> Optional<Member> byId = repository.findById(member.getId())
- */
 class MemoryMemberRepositoryTest {
 
     private final MemberRepository repository = new MemoryMemberRepository();

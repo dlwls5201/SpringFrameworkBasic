@@ -10,10 +10,6 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-/**
- * Tip
- * control + R : 이전에 실행한걸 그대로 실행합니다.
- */
 class MemberServiceTest {
 
     private MemberRepository memberRepository;

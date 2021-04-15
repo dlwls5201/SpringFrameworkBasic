@@ -7,11 +7,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * Tip
- * control + T : 리펙토링 관련 단축키
- * command + shift + T : 테스크 클래스 자동 생성
- */
 @Transactional
 public class MemberService {
 
