@@ -7,8 +7,8 @@
 ## 단축키 TIP
 
 - control + T : 리펙토링 관련 단축키
-- command + shift + T : 테스 클래스 자동 생성
-- command + shift + enter 자동 완성 트
+- command + shift + T : 테스트 클래스 자동 생성
+- command + shift + enter 자동 완성
   > ex) setName("spring -> setName("spring")
 - command + option + v 변수 자동 완성
   > ex) repository.findById(member.getId()) -> Optional<Member> byId = repository.findById(
